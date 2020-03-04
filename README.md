@@ -6,7 +6,7 @@ In this example
 
 ## Part I: Climate Analysis and Exploration
 
-* All analyses described were performed using SQLAlchemy ORM queries, Pandas, and/or Matplotlib (see `exploratory climate analysis_DL_clean.ipynb`)
+* All analyses described were performed using SQLAlchemy ORM queries, Pandas, and/or Matplotlib (see `exploratory climate analysis_DL_clean.ipynb`).
 
 * Used SQLAlchemy `create_engine` to connect to sqlite database.
 
