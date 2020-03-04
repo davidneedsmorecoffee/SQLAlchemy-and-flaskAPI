@@ -2,7 +2,7 @@
 
 In this example
 * **Part I** - Python and SQLAlchemy were used to do basic climate analysis and data exploration of climate database (see `hawaii.sqlite`; based on `hawaii-measurements.csv`, and `hawaii-stations`). 
-* **Part II** - Flask API setup 
+* **Part II** - Flask API setup. Multiple routes were set up for different functions.
 
 ## Part I: Climate Analysis and Exploration
 
