@@ -1,6 +1,6 @@
 # SQLAlchemy and Python for data analysis; Flask API setup
 
-In this example
+This example is broken down intwo two parts:
 * **Part I** - Python and SQLAlchemy were used to do basic climate analysis and data exploration of climate database (see `hawaii.sqlite`; based on `hawaii-measurements.csv`, and `hawaii-stations`). 
 * **Part II** - Flask API setup. Multiple routes were set up for different functions.
 
