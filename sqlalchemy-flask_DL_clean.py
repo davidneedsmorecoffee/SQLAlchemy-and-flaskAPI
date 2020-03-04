@@ -64,7 +64,7 @@ def welcome():
 @app.route("/api/v1.0/precipitation")
 def precipitation():
     session = Session(engine)
-    ## instruction didn't specify what the query is.  Use start date of 2017-07-07 as the query
+    ## As an example, use start date of 2017-07-07 as the query
     query_result = session.query(Measurement.date, Measurement.prcp).\
     filter(Measurement.date >= '2017-07-07').\
     order_by(Measurement.date).all()
