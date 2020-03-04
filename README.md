@@ -2,7 +2,7 @@
 
 In this example
 * **Part I** - Python and SQLAlchemy were used to do basic climate analysis and data exploration of climate database (see `hawaii.sqlite`; based on `hawaii-measurements.csv`, and `hawaii-stations`). 
-* **Part II** - Flask API setup
+* **Part II** - Flask API setup 
 
 ## Part I: Climate Analysis and Exploration
 
@@ -42,7 +42,7 @@ In this example
 
   * Constructed a histogram
 
-## Part II: Climate App
+## Part II: Climate App using Flask API
 
 * Designed a Flask API based on the queries described.
 * Used Flask `jsonify` to convert API data into a valid JSON response object.
